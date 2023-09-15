@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keep-in-touch/static/css/main.61a76145.css",
+    "main.js": "/Keep-in-touch/static/js/main.defd6a38.js",
+    "index.html": "/Keep-in-touch/index.html",
+    "main.61a76145.css.map": "/Keep-in-touch/static/css/main.61a76145.css.map",
+    "main.defd6a38.js.map": "/Keep-in-touch/static/js/main.defd6a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61a76145.css",
+    "static/js/main.defd6a38.js"
+  ]
+}
